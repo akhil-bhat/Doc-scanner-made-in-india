@@ -1,0 +1,3 @@
+//include ":testapp"
+include ":app"
+rootProject.name = "DocumentScanner"
